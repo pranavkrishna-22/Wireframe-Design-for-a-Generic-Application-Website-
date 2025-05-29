@@ -7,6 +7,7 @@ This experiment focuses on designing low-fidelity wireframes for a hypothetical 
 ---
 
 ## Objective
+Pdf Link: https://lms2.cse.saveetha.in/pluginfile.php/53748/assignsubmission_file/submission_files/142056/UI%20UX%20EXP%204.pdf?forcedownload=1
 
 To practice structuring digital interfaces by developing wireframes that demonstrate effective layout, content hierarchy, and user flows.
 
